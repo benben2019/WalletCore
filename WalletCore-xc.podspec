@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = "WalletCore"
+    s.name         = "WalletCore-xc"
     s.version      = "0.1"
     s.summary      = "A brief description of WalletCore."
     s.description  = <<-DESC
