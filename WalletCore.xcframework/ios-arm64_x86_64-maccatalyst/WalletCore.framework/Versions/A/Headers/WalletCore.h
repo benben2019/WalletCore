@@ -27,6 +27,7 @@ FOUNDATION_EXPORT const unsigned char WalletCoreVersionString[];
 #include "TWBitcoinScript.h"
 #include "TWBitcoinSigHashType.h"
 #include "TWBlockchain.h"
+#include "TWCardano.h"
 #include "TWCoinType.h"
 #include "TWCoinTypeConfiguration.h"
 #include "TWCurve.h"
